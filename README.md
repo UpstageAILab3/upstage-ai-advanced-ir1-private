@@ -1,19 +1,13 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Tm6AYAOm)
-# Title (Please modify the title)
+# Scientific Knowledge Question Answering (RAG 시스템 개발 프로젝트)
 ## Team
 
-| ![박패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![최패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김패캠](https://avatars.githubusercontent.com/u/156163982?v=4) | ![오패캠](https://avatars.githubusercontent.com/u/156163982?v=4) |
+| ![전은지](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이수형](https://avatars.githubusercontent.com/u/156163982?v=4) | ![서정민](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이지윤](https://avatars.githubusercontent.com/u/156163982?v=4) | ![이승미](https://avatars.githubusercontent.com/u/156163982?v=4) |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|            [박패캠](https://github.com/UpstageAILab)             |            [이패캠](https://github.com/UpstageAILab)             |            [최패캠](https://github.com/UpstageAILab)             |            [김패캠](https://github.com/UpstageAILab)             |            [오패캠](https://github.com/UpstageAILab)             |
-|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                             |
+|            [전은지](https://github.com/allisonej)             |            [이수형](https://github.com/dltngud1541)             |            [서정민](https://github.com/jmseo1216)             |            [이지윤](https://github.com/jiyuninha)             |            [이승미](https://github.com/seungmi1110)             |
+|                            팀장, 담당 역할                             |                            담당 역할                             |                            담당 역할                             |                            담당 역할                         |                            담당 역할                             |
 
-아래는 위 내용을 Markdown 형식으로 정리한 것입니다.
 
----
-
-# Scientific Knowledge Question Answering (RAG 시스템 개발 프로젝트)
-
-## 팀 구성
 - **전은지**: 팀장, 아이디어 수립 및 진행
 - **이승미**: 데이터 전처리, RAG
 - **서정민**: RAG 파이프라인 설계
