@@ -160,5 +160,6 @@
 
 - https://github.com/8pril/upstage-ai-final-ir
 - https://github.com/UpstageAILab/upstage-ai-final-ir1
-
+- https://learn.microsoft.com/ko-kr/azure/databricks/generative-ai/tutorials/ai-cookbook/fundamentals-data-pipeline-steps
+- https://developers.google.com/search/docs/fundamentals/how-search-works?hl=ko
 
