@@ -148,8 +148,8 @@
 <img width="680" alt="final" src="https://github.com/user-attachments/assets/1f558cc5-4f78-4b4a-9b01-04da71f7732e">
 
 ### Presentation
+[Black and White Clean Minimalist Onboarding Plan Presentation (1).pdf](https://github.com/user-attachments/files/17515635/Black.and.White.Clean.Minimalist.Onboarding.Plan.Presentation.1.pdf)
 
-- _Insert your presentaion file(pdf) link_
 
 ## etc
 
