@@ -50,7 +50,8 @@
 
 ### 4. STOPTAGS
 - ELASTICSEARCH NORI 형태소 분석기의 **STOPTAGS**를 사용하여 문법적 요소나 조사 등을 제거하거나 필터링.
-- `"stoptags": ["E", "J", "SC", "SE", "SF", "VCN", "VCP", "VX"]` 설정.
+- 베이스라인에서 "XSA" 추가
+- `"stoptags": ["E", "J", "SC", "SE", "SF", "VCN", "VCP", "VX", "XSA"]` 설정.
 
 ### 5. SYNONYMS_FILTER
 - 검색 시 여러 단어나 표현을 동의어로 처리하여 검색 정확도와 확장성을 높임.
