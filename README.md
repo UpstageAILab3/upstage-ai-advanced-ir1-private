@@ -151,15 +151,14 @@
 <img width="680" alt="final" src="https://github.com/user-attachments/assets/1f558cc5-4f78-4b4a-9b01-04da71f7732e">
 
 ### Presentation
-[Black and White Clean Minimalist Onboarding Plan Presentation (1).pdf](https://github.com/user-attachments/files/17515635/Black.and.White.Clean.Minimalist.Onboarding.Plan.Presentation.1.pdf)
+[IR_1팀_발표자료.pdf](https://github.com/user-attachments/files/17515696/IR_1._.pdf)
 
 
 ## etc
 
-### Meeting Log
-
-- _Insert your meeting log link like Notion or Google Docs_
-
 ### Reference
 
-- _Insert related reference_
+- https://github.com/8pril/upstage-ai-final-ir
+- https://github.com/UpstageAILab/upstage-ai-final-ir1
+
+
